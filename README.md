@@ -68,7 +68,7 @@ To get a local copy up and running follow these simple example steps.
 1. Clone the repo
 
 ```sh
-git clone https://github.com/Infinite-Null/Melody
+git clone https://github.com/namptit02/Spotify-Clone.git
 ```
 
 2. Install NPM packages
