@@ -39,11 +39,6 @@
 
 Introducing Melody: Your Ultimate Ad-Free Music Companion! Developed with React Native and harnessing the power of JioSavan's Unofficial API, Melody offers you a seamless music streaming experience at your fingertips. Dive into a world of limitless tunes, curated playlists, and personalized recommendations—all without interruptions.
 
-## Community
-
-<a href=https://t.me/ankits_project>
-<img src="https://github.com/Infinite-Null/NekoFlix/assets/97950192/98d4e8b5-62c2-41ec-8d66-73d791181fca" alt="Logo" width="200" height="120">
-</a>
 
 ## Built With
 
@@ -89,16 +84,6 @@ npm run start
 ```
 
 
-## Roadmap
-
-See the [open issues](https://github.com/Infinite-Null/Melody/issues) for a list of proposed features (and known issues).
-
-## Contributing
-
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-* If you have suggestions for adding or removing projects, feel free to [open an issue](https://github.com/Infinite-Null/Melody/issues/new) to discuss it, or directly create a pull request after you edit the *README.md* file with necessary changes.
-* Please make sure you check your spelling and grammar.
-* Create individual PR for each suggestion.
 
 ### Creating A Pull Request
 
@@ -108,30 +93,6 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
-
-Distributed under the MIT License. See [LICENSE](https://github.com/Infinite-Null/Melody/blob/main/LICENSE.md) for more information.
-
-## Donate Now
-
-<a href=https://buymeacoffee.com/ankitkumarshah>
-<img src="https://github.com/Infinite-Null/NekoFlix/assets/97950192/2a9aa329-316d-429d-9d34-d391a7a16973" alt="Logo" width="200" height="120">
-</a>
 
 
-<a href=https://github.com/Infinite-Null/NekoFlix/assets/97950192/f0656db7-db26-4c99-95fa-56053cc69498>
-<img src="https://github.com/Infinite-Null/NekoFlix/assets/97950192/be662d1b-8b82-4dff-ac56-2aeed847fd10" alt="Logo" width="200" height="120">
-</a>
 
-## Disclaimer
-
-```
-Melody does not possess or maintain any association with the songs and other content accessible through the app.
-All songs and other content are the property of their respective owners and are safeguarded by copyright law.
-Melody holds no liability for any copyright infringement or other violations of intellectual property rights
-that may arise from the use of the songs and other content accessible through the app.
-Melody employs third-party plugins and assumes no responsibility for any harm or damage to the respective owners or
-any other parties resulting from the utilization of the songs and other content through the third-party plugins.
-By using the app, you consent to utilizing the songs and other content exclusively for personal,
-non-commercial purposes and in accordance with all applicable laws and regulations.
-```
