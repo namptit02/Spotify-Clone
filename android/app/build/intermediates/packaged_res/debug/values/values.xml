@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#C3242B</color>
+    <integer name="react_native_dev_server_port">8081</integer>
+    <integer name="react_native_inspector_proxy_port">8081</integer>
+    <string name="CODE_PUSH_APK_BUILD_TIME" translatable="false">"1718270407440"</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">BdtzgeTLRedJXV4Ef88vdw91Qpf0KpHCJ95Il</string>
+    <string name="app_name">Melody</string>
+    <style name="AppTheme" parent="Theme.AppCompat.DayNight.NoActionBar">
+        
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+    </style>
+</resources>
